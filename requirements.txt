@@ -9,7 +9,7 @@ chardet==3.0.4
 click==6.7
 construct==2.8.16
 cssutils==1.0.2
-Django==1.11.5
+Django==1.11.28
 djangorestframework==3.6.4
 EditorConfig==0.12.1
 Flask==0.12.2
